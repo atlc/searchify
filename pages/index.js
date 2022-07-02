@@ -7,7 +7,7 @@ const GREEN = "#1DB954";
 const BLACK = "#191414";
 
 export default function Home() {
-    const [searchTerm, setSearchTerm] = useState("man on the moon");
+    const [searchTerm, setSearchTerm] = useState("channel orange");
     const [searchType, setSearchType] = useState("album");
     const [searchResults, setSearchResults] = useState([]);
 
